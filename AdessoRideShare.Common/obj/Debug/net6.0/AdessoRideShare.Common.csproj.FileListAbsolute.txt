@@ -1,0 +1,11 @@
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\bin\Debug\net6.0\AdessoRideShare.Common.deps.json
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\bin\Debug\net6.0\AdessoRideShare.Common.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\bin\Debug\net6.0\ref\AdessoRideShare.Common.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\bin\Debug\net6.0\AdessoRideShare.Common.pdb
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.AssemblyInfoInputs.cache
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.AssemblyInfo.cs
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\ref\AdessoRideShare.Common.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.Common\obj\Debug\net6.0\AdessoRideShare.Common.pdb

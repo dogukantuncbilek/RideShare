@@ -1,0 +1,15 @@
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\AdessoRideShare.BL.deps.json
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\AdessoRideShare.BL.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\ref\AdessoRideShare.BL.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\AdessoRideShare.BL.pdb
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\AdessoRideShare.Common.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\bin\Debug\net6.0\AdessoRideShare.Common.pdb
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.csproj.AssemblyReference.cache
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.AssemblyInfoInputs.cache
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.AssemblyInfo.cs
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.csproj.CoreCompileInputs.cache
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.csproj.CopyComplete
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\ref\AdessoRideShare.BL.dll
+D:\OneDrive\Dropbox\Dropbox\C#\Projects\adesso\AdessoRideShare\AdessoRideShare\AdessoRideShare.BL\obj\Debug\net6.0\AdessoRideShare.BL.pdb
